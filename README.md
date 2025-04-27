@@ -56,3 +56,10 @@ This GIF shows the automation test running locally using Selenium, and Mobile Em
 
 ![Test Running](resources/test_running/1.png)
 ![Test Running](resources/test_running/2.png)
+![Test Running](resources/test_running/3.png)
+![Test Running](resources/test_running/4.png)
+![Test Running](resources/test_running/5.png)
+![Test Running](resources/test_running/6.png)
+![Test Running](resources/test_running/7.png)
+![Test Running](resources/test_running/8.png)
+![Test Running](resources/test_running/9.png)
