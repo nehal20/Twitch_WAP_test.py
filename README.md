@@ -55,3 +55,4 @@ This will:
 This GIF shows the automation test running locally using Selenium, and Mobile Emulator:
 
 ![Test Running](resources/test_running/1.png)
+![Test Running](resources/test_running/2.png)
